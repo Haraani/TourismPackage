@@ -1,0 +1,22 @@
+artifact_path: file:///content/drive/My%20Drive/TourismPackage/mlruns/115569019882985697/models/m-9aff48b900d241aa864023af0b15686e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.4.0
+model_id: m-9aff48b900d241aa864023af0b15686e
+model_size_bytes: 4463507
+model_uuid: m-9aff48b900d241aa864023af0b15686e
+prompts: null
+run_id: 36ab8b9bd5ca4c80a4b38ea11c034d6f
+utc_time_created: '2025-10-02 12:52:46.293930'

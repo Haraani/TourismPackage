@@ -1,0 +1,10 @@
+artifact_location: file:///content/drive/My%20Drive/TourismPackage/mlruns/115569019882985697/models/m-209d32d8838f49a59f18c799b12f7962/artifacts
+creation_timestamp: 1759409927731
+experiment_id: '115569019882985697'
+last_updated_timestamp: 1759409932730
+model_id: m-209d32d8838f49a59f18c799b12f7962
+model_type: null
+name: model
+source_run_id: 4c10d617f2f54463bc771227592769df
+status: 2
+status_message: null

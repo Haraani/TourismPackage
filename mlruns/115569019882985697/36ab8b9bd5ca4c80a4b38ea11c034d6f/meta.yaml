@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/My%20Drive/TourismPackage/mlruns/115569019882985697/36ab8b9bd5ca4c80a4b38ea11c034d6f/artifacts
+end_time: 1759409571186
+entry_point_name: ''
+experiment_id: '115569019882985697'
+lifecycle_stage: active
+run_id: 36ab8b9bd5ca4c80a4b38ea11c034d6f
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759409564662
+status: 3
+tags: []
+user_id: root

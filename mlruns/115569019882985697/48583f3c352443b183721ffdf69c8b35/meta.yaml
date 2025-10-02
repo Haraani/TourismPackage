@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/My%20Drive/TourismPackage/mlruns/115569019882985697/48583f3c352443b183721ffdf69c8b35/artifacts
+end_time: 1759409460621
+entry_point_name: ''
+experiment_id: '115569019882985697'
+lifecycle_stage: active
+run_id: 48583f3c352443b183721ffdf69c8b35
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759409444128
+status: 3
+tags: []
+user_id: root
